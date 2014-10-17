@@ -21,7 +21,8 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>scm:svn:https://subversion.proteon.nl/MAIN/projects/PRT1404_Devpack/example-portlet2/trunk</connection>
+		<connection>scm:git:git@github.com:sjsmit/firelay-devpack-portlet.git</connection>
+		<url>scm:git:git@github.com:sjsmit/firelay-devpack-portlet.git</url>
 	</scm>
 
 </project>
