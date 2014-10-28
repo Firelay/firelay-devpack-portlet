@@ -5,8 +5,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<liferay.version>6.1.1</liferay.version>
-		<liferay.faces.bridge.version>3.1.4-ga5</liferay.faces.bridge.version>
+		<liferay.version>6.2.1</liferay.version>
+		<liferay.faces.bridge.version>3.2.4-ga5</liferay.faces.bridge.version>
 	</properties>
 	<parent>
 		<groupId>com.firelay.example</groupId>
