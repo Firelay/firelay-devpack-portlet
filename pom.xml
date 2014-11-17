@@ -21,8 +21,8 @@
 		</dependency>
 	</dependencies>
 	<scm>
-		<connection>scm:git:git@github.com:sjsmit/firelay-devpack-portlet.git</connection>
-		<url>scm:git:git@github.com:sjsmit/firelay-devpack-portlet.git</url>
+		<connection>scm:git:git@github.com:Firelay/firelay-devpack-portlet.git</connection>
+		<url>scm:git:git@github.com:Firelay/firelay-devpack-portlet.git</url>
 	</scm>
 
 </project>
