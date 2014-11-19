@@ -25,8 +25,10 @@ public class ExampleBean {
     User user = null;
     try {
       user = UserLocalServiceUtil.getUser(userId);
-    } catch (PortalException | SystemException e) {
+    } catch (PortalException e) {
 
+    } catch (SystemException e){
+      
     }
     setUser(user);
   }

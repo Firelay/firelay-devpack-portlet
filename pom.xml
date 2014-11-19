@@ -10,7 +10,7 @@
 	</properties>
 	<parent>
 		<groupId>com.firelay.example</groupId>
-		<artifactId>example-parent</artifactId>
+		<artifactId>example-parent-6.1-java6</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<dependencies>
