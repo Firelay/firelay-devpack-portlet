@@ -79,7 +79,6 @@
 	<scm>
 		<connection>scm:git:https://github.com/Firelay/firelay-devpack-portlet.git</connection>
 		<url>scm:git:https://github.com/Firelay/firelay-devpack-portlet.git</url>
-	  <branch>7.0</branch>
   </scm>
 
 </project>
