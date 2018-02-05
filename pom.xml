@@ -63,4 +63,23 @@
 			<version>1.2.14</version>
 		</dependency>
 	</dependencies>
+
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<name>Releases</name>
+			<url>${firelay.nexus.releases}</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<name>Snapshots</name>
+			<url>${firelay.nexus.snapshots}</url>
+		</snapshotRepository>
+	</distributionManagement>
+	<scm>
+		<connection>scm:git:https://github.com/Firelay/firelay-devpack-portlet.git</connection>
+		<url>scm:git:https://github.com/Firelay/firelay-devpack-portlet.git</url>
+	  <branch>7.0</branch>
+  </scm>
+
 </project>
